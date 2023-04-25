@@ -8,7 +8,7 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 /**
  *
- * @author Sonal L R
+ * @author Suryakanth M S
  */
 public class Card_Payment extends javax.swing.JFrame {
     String username;
