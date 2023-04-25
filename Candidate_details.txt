@@ -1,10 +1,10 @@
-Email id : sonalrajan1971@gmail.com
-Name : Sonal
-Mobile number : 6383748319
-Alternate mobile number : 8667049132
-Date of Birth : 10/December/2000
-Gender : Female
-Address : Ellisnagar
+Email id : suryakanth0707@gmail.com
+Name : Suryakanth
+Mobile number : 9626221971
+Alternate mobile number : 9843043790
+Date of Birth : 19/November/2002
+Gender : Male
+Address : K.pudur
 State : Tamil Nadu
 City : Madurai
 Disability : No
